@@ -30,7 +30,7 @@ setuptools.setup(
         "holoviews",
         "bokeh",
         "hvplot",
-        "panel",
+        "panel==1.3.6",
         "xgboost",
         "fsspec",
         "typing-extensions",
