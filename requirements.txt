@@ -10,7 +10,7 @@ matplotlib
 seaborn
 scikit-learn
 statsmodels
-holoviews
+holoviews~=1.14.9
 bokeh
 hvplot
 panel
