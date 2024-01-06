@@ -28,7 +28,7 @@ setuptools.setup(
         "nltk",
         "textblob",
         "holoviews~=1.14.9",
-        "bokeh",
+        "bokeh~=2.4.2",
         "hvplot",
         "panel",
         "xgboost",
