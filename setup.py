@@ -27,7 +27,7 @@ setuptools.setup(
         "statsmodels",
         "nltk",
         "textblob",
-        "holoviews",
+        "holoviews~=1.14.9",
         "bokeh",
         "hvplot",
         "panel==1.3.6",
